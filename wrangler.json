@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "broken-surf-da06",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "8f19ff16-dfb0-4df6-8697-34c07c838bd8",
+      "database_name": "winter-wave-a56c-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
